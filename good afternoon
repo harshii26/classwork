@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+    printf("good afternoon\n");
+    printf("everyone");
+    return 0;
+    }
